@@ -1,6 +1,6 @@
 # Icsstrive Cleaning.
 ## Integrantes.
-- Equipo de Matemáticas: Frank Llonch, Lucia Mielgo y María González.
+- Equipo de Matemáticas: María González.
 - Equipo de Machine Learning: Alejandra Cervantes.
 
 ## Información.
